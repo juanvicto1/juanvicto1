@@ -2,7 +2,7 @@
 
 Bem Vindo ao meu Perfil.
 
-Sou estudante de Sistemas de informação, Designer Gráfico e Porgramador FullStack
+Sou estudante de Sistemas de informação, Designer Gráfico e Programador FullStack
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Juan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
